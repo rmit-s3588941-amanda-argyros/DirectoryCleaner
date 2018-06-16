@@ -1,4 +1,5 @@
 # DirectoryCleaner
+<img src='clean.icns' width='128px'/>
 > Easy drag and drop application for Mac OSX that sorts your files by extension.
 
 <img src='sort.gif' width='300px'/>
